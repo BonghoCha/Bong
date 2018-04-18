@@ -1,2 +1,2 @@
 ﻿test 입니다
-이건 Master(child)
+이건 Master(master)
